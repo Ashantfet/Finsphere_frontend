@@ -331,6 +331,7 @@ You've successfully run the React Native App.
 
 # 7. Authors
 
+- [Ashant Kumar CS24M113](https://www.github.com/ashantfet)
 - [Sandeep Kumar CS24M112](https://github.com/sandeepshakya2019)
 - [Abhishek Kumar CS24M120](https://github.com/imabhishekmahli)
-- [Ashant Kumar CS24M113](https://www.github.com/ashantfet)
+
