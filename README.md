@@ -267,7 +267,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Step 0: Fetch the Github Frontend Repository
 
-- Fetch the GitHub Repository by following command [**Frontend For FinSphere**](https://github.com/sandeepshakya2019/ISE_1_Frontend)
+- Fetch the GitHub Repository by following command [**Frontend For FinSphere**](https://github.com/Ashantfet/Finsphere_frontend/)
 
 ```bash
 git clone https://github.com/sandeepshakya2019/ISE_1_Frontend
