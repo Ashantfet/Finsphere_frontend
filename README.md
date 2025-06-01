@@ -1,6 +1,6 @@
 # APP DOCUMENTATION
 
-**[Backend FinSphere](https://github.com/sandeepshakya2019/ISE_1_Backend)**
+**[Backend FinSphere](https://github.com/Ashantfet/Finsphere_backend)**
 
 **For Checking Purposes**
 
